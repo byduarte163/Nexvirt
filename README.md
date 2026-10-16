@@ -34,5 +34,5 @@ Internet → Firewall → Switch virtual → 5 VMs sobre VMWare, VirtualBox etc.
 - `/docs/memoria` — memoria técnica en LaTeX
 
 
-## ✅ Estado actual
+## Estado actual
 Sprint 1 en curso.
